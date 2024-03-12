@@ -1,8 +1,8 @@
-# \[Group name\]
+# JOF Coding
 
 **Group members:**
-- A
-- B
+- Frederik Alexander Jensen
+- Oliver Hjorhoey
 - C
 
 This repository contains  
