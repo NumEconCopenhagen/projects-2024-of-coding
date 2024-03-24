@@ -3,7 +3,7 @@
 **Group members:**
 - Frederik Alexander Jensen
 - Oliver Hjorhoey
-- C
+- Joachim Niemann
 
 This repository contains  
 1. Inaugural project. 
