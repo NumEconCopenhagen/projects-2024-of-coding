@@ -2,7 +2,7 @@
 
 **Group members:**
 - Frederik Alexander Jensen
-- Oliver Hjorhoey
+- Oliver Hjorhøy
 - Joachim Niemann
 
 This repository contains  
